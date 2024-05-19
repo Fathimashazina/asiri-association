@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "asiri-association",
   storageBucket: "asiri-association.appspot.com",
   messagingSenderId: "832850486491",
-  appId: "1:832850486491:web:9d0f135b12ce3f999558fe"
+  appId: "1:832850486491:web:9d0f135b12ce3f999558fe",
 };
 
 // Initialize Firebase
