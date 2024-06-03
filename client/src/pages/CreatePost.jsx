@@ -24,6 +24,8 @@ export default function CreatePost() {
             <option value="usedcars">Used Cars</option>
             <option value="usedconstructionmachinery">Used Construction Machinery</option>
             <option value="usedindustrialmachinery">Used Industrial Machinery</option>
+            <option value="othervehicle">Other vehicle</option>
+            <option value="othermachinery">Other Machinery</option>
           </Select>
         </div>
         <div className="flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3">
